@@ -1,5 +1,5 @@
-# Berkeley Vision Wiki
-Guide to how to get up and running for research in computer vision at Berkeley
+# Berkeley EMK Vision Wiki
+Guide to how to get up and running for research in computer vision at Berkeley in the EMK groups
 
 **[LINK TO WIKI](https://github.com/berkeleyvl/wiki/wiki)**
 
